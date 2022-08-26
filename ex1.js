@@ -16,5 +16,6 @@ function changeTextColor() {
 
 
 
+
 colorChangeBtn.addEventListener('click', changeBGColor);
 colorChangeBtn.addEventListener('click', changeTextColor);

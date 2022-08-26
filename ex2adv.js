@@ -29,5 +29,5 @@ function currentTime() {
   }
 
   //where is the variable "t" used? i do not see it, yet if commented out the clock stops updating
-  //need to look up more about setTimeout
+  //need to look up more about setTimeout 
   currentTime();
